@@ -1,5 +1,4 @@
-Chapter 2: The Cost of Ignoring Workplace Trauma: Understanding the Costs of Ignoring Workplace Trauma
-======================================================================================================
+# Understanding the Costs of Ignoring Workplace Trauma
 
 Ignoring workplace trauma can have significant costs for both employees and employers. In this chapter, we will explore the costs of ignoring workplace trauma and the importance of addressing trauma in the workplace.
 

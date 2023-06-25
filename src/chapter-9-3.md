@@ -1,5 +1,4 @@
-Chapter 8: Future Directions: Looking Ahead to the Future of Workplace Mental Health
-====================================================================================
+# Looking Ahead to the Future of Workplace Mental Health
 
 As we look ahead to the future of workplace mental health, there are several emerging trends and areas of focus that will shape how organizations address trauma and promote employee well-being. In this chapter, we will explore some of these trends.
 

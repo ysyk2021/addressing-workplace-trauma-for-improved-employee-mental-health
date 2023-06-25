@@ -1,5 +1,4 @@
-Chapter 1: Defining Workplace Trauma: What is Workplace Trauma?
-===============================================================
+# What is Workplace Trauma?
 
 Workplace trauma is a significant issue that can have a profound impact on employee mental health. In this chapter, we will define workplace trauma and explore its causes.
 

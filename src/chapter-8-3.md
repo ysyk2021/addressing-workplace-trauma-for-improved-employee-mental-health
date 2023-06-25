@@ -1,5 +1,4 @@
-Chapter 7: Leadership Support: Addressing Challenges and Setbacks
-=================================================================
+# Addressing Challenges and Setbacks
 
 Leadership support is critical for addressing challenges and setbacks in implementing trauma-informed practices in the workplace. In this chapter, we will explore strategies for addressing challenges and setbacks in promoting employee mental health.
 

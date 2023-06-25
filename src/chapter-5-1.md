@@ -1,5 +1,4 @@
-Chapter 4: Providing Resources for Trauma Recovery: Access to Mental Health Services
-====================================================================================
+# Access to Mental Health Services
 
 Access to mental health services is critical for promoting trauma recovery and supporting employee well-being. In this chapter, we will explore the benefits of providing access to mental health services, how to provide access in the workplace, and strategies for overcoming barriers to accessing these services.
 

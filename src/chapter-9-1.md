@@ -1,5 +1,4 @@
-Chapter 8: Future Directions: Innovations in Addressing Workplace Trauma
-========================================================================
+# Innovations in Addressing Workplace Trauma
 
 As our understanding of workplace trauma and its impact on employee mental health continues to evolve, so too do the strategies for addressing it. In this chapter, we will explore some of the emerging innovations in addressing workplace trauma.
 

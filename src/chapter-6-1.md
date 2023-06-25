@@ -1,5 +1,4 @@
-Chapter 5: Training and Education: Educating Employees about Workplace Trauma
-=============================================================================
+# Educating Employees about Workplace Trauma
 
 Educating employees about workplace trauma is an essential component of addressing workplace trauma and promoting employee mental health. In this chapter, we will explore strategies for educating employees about workplace trauma.
 

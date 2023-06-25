@@ -1,5 +1,4 @@
-Chapter 1: Defining Workplace Trauma: The Impact of Workplace Trauma on Mental Health
-=====================================================================================
+# The Impact of Workplace Trauma on Mental Health
 
 Workplace trauma can have a profound impact on employee mental health and well-being. In this chapter, we will explore the impact of workplace trauma on mental health.
 

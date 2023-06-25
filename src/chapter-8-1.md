@@ -1,5 +1,4 @@
-Chapter 7: Leadership Support: The Role of Leadership in Supporting Trauma-Informed Practices
-=============================================================================================
+# The Role of Leadership in Supporting Trauma-Informed Practices
 
 Leadership support is critical for promoting trauma-informed practices and supporting employee well-being. In this chapter, we will explore the role of leadership in supporting trauma-informed practices, key strategies for promoting leadership support, and the benefits of a supportive leadership culture.
 

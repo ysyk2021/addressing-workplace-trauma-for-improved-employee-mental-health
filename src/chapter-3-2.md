@@ -1,5 +1,4 @@
-Chapter 2: The Cost of Ignoring Workplace Trauma: The Risks to Employee Mental Health
-=====================================================================================
+# The Risks to Employee Mental Health
 
 Ignoring workplace trauma can have significant risks for employee mental health. In this chapter, we will explore the risks of ignoring workplace trauma and the impact it can have on employees' mental health.
 

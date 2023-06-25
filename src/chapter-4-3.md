@@ -1,5 +1,4 @@
-Chapter 3: Creating a Safe and Supportive Environment: Developing Policies and Procedures that Address Trauma
-=============================================================================================================
+# Developing Policies and Procedures that Address Trauma
 
 Creating a safe and supportive environment is critical for addressing workplace trauma and improving employee mental health. One of the key ways to create such an environment is by developing policies and procedures that address trauma. In this chapter, we will explore how policies and procedures can facilitate healing and recovery, and provide strategies for developing trauma-informed policies and procedures in the workplace.
 

@@ -1,5 +1,4 @@
-Chapter 5: Training and Education: Providing Training for Managers and Supervisors
-==================================================================================
+# Providing Training for Managers and Supervisors
 
 Providing training and education to managers and supervisors is critical for promoting trauma-informed practices and supporting employee mental health. In this chapter, we will explore the benefits of providing training to managers and supervisors, key topics that should be covered in training, and strategies for implementing effective training programs.
 

@@ -1,4 +1,4 @@
-Introduction: Purpose of the Book
+Purpose of the Book
 =================================
 
 The purpose of this book is to provide organizations with strategies for addressing workplace trauma and improving employee mental health. Trauma in the workplace can have a significant impact on employee well-being, organizational culture, and performance. By addressing trauma and promoting mental health, organizations can create a supportive environment that fosters healing, recovery, and productivity.

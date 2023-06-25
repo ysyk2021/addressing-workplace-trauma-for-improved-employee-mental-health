@@ -1,5 +1,4 @@
-Chapter 4: Providing Resources for Trauma Recovery: Other Resources for Trauma Recovery
-=======================================================================================
+# Other Resources for Trauma Recovery
 
 In addition to employee assistance programs (EAPs) and support groups, there are other resources that organizations can provide to support trauma recovery among employees. In this chapter, we will explore some of these resources.
 

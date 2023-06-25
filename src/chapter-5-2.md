@@ -1,5 +1,4 @@
-Chapter 4: Providing Resources for Trauma Recovery: EAPs (Employee Assistance Programs)
-=======================================================================================
+# EAPs (Employee Assistance Programs)
 
 Employee Assistance Programs (EAPs) are an important resource for promoting trauma recovery and supporting employee mental health. In this chapter, we will explore the benefits of EAPs, how they work, and strategies for implementing EAPs in the workplace.
 

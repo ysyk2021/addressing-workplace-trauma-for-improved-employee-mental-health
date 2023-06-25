@@ -1,5 +1,4 @@
-Chapter 6: Implementation: Overcoming Barriers to Effective Implementation
-==========================================================================
+# Overcoming Barriers to Effective Implementation
 
 Effective implementation of trauma-informed practices is critical for promoting employee mental health and well-being. However, there may be several barriers that can impede the successful implementation of these practices. In this chapter, we will explore strategies for overcoming barriers to effective implementation.
 

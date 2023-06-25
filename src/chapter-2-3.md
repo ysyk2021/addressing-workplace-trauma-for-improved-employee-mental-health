@@ -1,5 +1,4 @@
-Chapter 1: Defining Workplace Trauma: Examples of Workplace Trauma in Practice
-==============================================================================
+# Examples of Workplace Trauma in Practice
 
 Workplace trauma can have a significant impact on employee mental health and well-being. In this chapter, we will define workplace trauma and provide examples of workplace trauma in practice.
 

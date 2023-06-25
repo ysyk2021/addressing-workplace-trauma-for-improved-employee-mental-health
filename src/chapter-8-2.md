@@ -1,5 +1,4 @@
-Chapter 7: Leadership Support: Fostering a Culture of Support
-=============================================================
+# Fostering a Culture of Support
 
 Leadership support is critical for promoting employee mental health and well-being in the workplace. In this chapter, we will explore strategies for fostering a culture of support that promotes healing and recovery for employees who have experienced trauma.
 

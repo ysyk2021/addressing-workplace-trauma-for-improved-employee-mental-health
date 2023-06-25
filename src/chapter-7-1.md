@@ -1,5 +1,4 @@
-Chapter 6: Implementation: Implementing Trauma-Informed Practices in the Workplace
-==================================================================================
+# Implementing Trauma-Informed Practices in the Workplace
 
 Implementing trauma-informed practices is critical for promoting healing and recovery for employees who have experienced workplace trauma. In this chapter, we will explore strategies for implementing trauma-informed practices in the workplace.
 

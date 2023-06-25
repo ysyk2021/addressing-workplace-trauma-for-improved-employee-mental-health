@@ -1,5 +1,4 @@
-Chapter 3: Creating a Safe and Supportive Environment: Encouraging Open Communication
-=====================================================================================
+# Encouraging Open Communication
 
 Creating a safe and supportive environment is critical for addressing workplace trauma and improving employee mental health. One of the key ways to create such an environment is by encouraging open communication. In this chapter, we will explore how open communication can facilitate healing and recovery, and provide strategies for fostering open communication in the workplace.
 

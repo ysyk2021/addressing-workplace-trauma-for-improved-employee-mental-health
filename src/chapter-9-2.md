@@ -1,5 +1,4 @@
-Chapter 8: Future Directions: Addressing New Challenges in Workplace Trauma and Mental Health
-=============================================================================================
+# Addressing New Challenges in Workplace Trauma and Mental Health
 
 As the workplace continues to evolve, new challenges arise in addressing workplace trauma and promoting employee mental health. In this chapter, we will explore some of these emerging challenges and strategies for addressing them.
 

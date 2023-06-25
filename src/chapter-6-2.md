@@ -1,5 +1,4 @@
-Chapter 5: Training and Education: Incorporating Trauma-Informed Practices into the Workplace
-=============================================================================================
+# Incorporating Trauma-Informed Practices into the Workplace
 
 Incorporating trauma-informed practices into the workplace is essential for promoting healing and recovery for employees who have experienced trauma. In this chapter, we will explore strategies for incorporating trauma-informed practices into the workplace.
 
