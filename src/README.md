@@ -8,4 +8,5 @@ The authors draw on their extensive expertise in psychology and workplace wellne
 
 Whether you're an employer looking to improve employee well-being or an employee seeking to enhance your own mental health, "Addressing Workplace Trauma for Improved Employee Mental Health" is an essential resource. By reading this book, you'll gain the knowledge and tools you need to create a safer, more supportive, and more mentally healthy workplace.
 
+
 MingHai Zheng is the founder of zhengpublishing.com and lives in Wuhan, China. His main publishing areas are business, management, self-help, computers and other emerging foreword fields.

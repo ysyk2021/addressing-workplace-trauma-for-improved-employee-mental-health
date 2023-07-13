@@ -1,4 +1,4 @@
-Conclusion: Summary of Key Points
+Summary of Key Points
 =================================
 
 Addressing workplace trauma is critical for improving employee mental health and promoting a healthy organizational culture. In this book, we explored several key points related to addressing workplace trauma:
