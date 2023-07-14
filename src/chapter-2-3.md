@@ -26,4 +26,4 @@ An employee faced chronic work overload, unrealistic deadlines, and an unsupport
 
 ## Conclusion
 
-These real-life examples highlight the diverse nature of workplace trauma and its impact on employees' mental health. By recognizing and addressing workplace trauma, organizations can create a supportive environment that promotes healing, resilience, and improved employee mental health. In the next chapters, we will delve into effective strategies for addressing workplace trauma and fostering a mentally healthy workplace culture.
+These real-life examples highlight the diverse nature of workplace trauma and its impact on employees' mental health. By recognizing and addressing workplace trauma, organizations can create a supportive environment that promotes healing, resilience, and improved employee mental health.
