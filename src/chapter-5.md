@@ -26,17 +26,6 @@ In addition to mental health services and EAPs, there are several other resource
 
 4. Educational materials: Educational materials, such as brochures or online resources, can provide information on coping strategies, self-care, and mental health resources.
 
-Challenges in Providing Resources
----------------------------------
-
-There may be challenges in providing resources for trauma recovery. Here are some common challenges and strategies for overcoming them:
-
-1. Limited resources: Providing resources for trauma recovery may require additional resources, such as funding or staff time. Employers can overcome this barrier by prioritizing employee mental health and seeking out cost-effective solutions.
-
-2. Stigma: Employees may feel stigmatized or ashamed of seeking mental health treatment or using other resources for trauma recovery. Employers can overcome this barrier by promoting a culture of empathy, understanding, and support.
-
-3. Accessibility: Some employees may have difficulty accessing resources due to geographical or financial barriers. Employers can overcome this barrier by offering a range of resources and ensuring that they are easily accessible to all employees.
-
 Conclusion
 ----------
 

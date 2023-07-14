@@ -18,17 +18,6 @@ Developing Policies and Procedures that Address Trauma
 
 Developing policies and procedures that address trauma is essential for creating a safe and supportive environment in the workplace. Policies and procedures provide guidance on how to respond to incidents, ensure consistency in decision-making, and promote transparency and accountability. Leaders can develop trauma-informed policies and procedures by involving employees in the development process, consulting with mental health professionals and legal experts, developing clear protocols for responding to incidents of workplace trauma, communicating policies and procedures clearly and consistently, and reviewing and updating policies and procedures regularly.
 
-Challenges in Creating a Safe and Supportive Environment
---------------------------------------------------------
-
-There may be challenges in creating a safe and supportive environment in the workplace. Here are some common challenges and strategies for overcoming them:
-
-1. Stigma: Employees may feel stigmatized or ashamed of experiencing workplace trauma. Leaders can overcome this barrier by promoting a culture of empathy, understanding, and support.
-
-2. Resistance to change: Some employees or stakeholders may resist changes in the workplace that are designed to promote well-being and mental health. Leaders can overcome this barrier by involving employees in the process and explaining the benefits of these changes.
-
-3. Limited resources: Creating a safe and supportive environment may require additional resources, such as staff time or technology. Leaders can overcome this barrier by prioritizing employee mental health and seeking out cost-effective solutions.
-
 Conclusion
 ----------
 
