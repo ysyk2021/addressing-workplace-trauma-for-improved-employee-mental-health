@@ -1,4 +1,3 @@
-# Measuring the Effectiveness of Trauma-Informed Practices
 
 Implementing trauma-informed practices is critical for addressing workplace trauma and improving employee mental health. In this chapter, we will explore how to measure the effectiveness of trauma-informed practices and ensure that they are making a positive impact on employees.
 

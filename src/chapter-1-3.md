@@ -1,5 +1,3 @@
-Importance of Addressing Trauma in the Workplace
-==============================================================
 
 Trauma is a significant issue that can have a profound impact on individuals and organizations. Traumatic events can occur in any setting, including the workplace, and can cause long-lasting effects on employee mental health and well-being. In this book, we will explore the importance of addressing trauma in the workplace and provide strategies for improving employee mental health.
 

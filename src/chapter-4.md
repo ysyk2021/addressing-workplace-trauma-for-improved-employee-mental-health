@@ -1,5 +1,3 @@
-Chapter 3: Creating a Safe and Supportive Environment
-=====================================================
 
 Creating a safe and supportive environment is critical for addressing workplace trauma and improving employee mental health. In this chapter, we will explore different strategies for creating such an environment in the workplace.
 

@@ -1,5 +1,3 @@
-Chapter 7: Leadership Support
-=============================
 
 Leadership plays a critical role in addressing workplace trauma and improving employee mental health. In this chapter, we will explore the role of leadership in supporting trauma-informed practices, fostering a culture of support, and addressing challenges and setbacks.
 

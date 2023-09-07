@@ -1,5 +1,3 @@
-Introduction
-============
 
 Trauma in the workplace can have a significant impact on employee mental health and well-being. Addressing workplace trauma is critical for promoting a healthy organizational culture and improving employee mental health. In this book, we will explore strategies for addressing workplace trauma and improving employee mental health across a range of industries and settings.
 

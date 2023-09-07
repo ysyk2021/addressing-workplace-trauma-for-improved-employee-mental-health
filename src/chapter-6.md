@@ -1,5 +1,3 @@
-Chapter 5: Training and Education
-=================================
 
 Training and education are critical components of addressing workplace trauma and promoting employee mental health. In this chapter, we will explore strategies for educating employees about workplace trauma, incorporating trauma-informed practices into the workplace, and providing training for managers and supervisors.
 

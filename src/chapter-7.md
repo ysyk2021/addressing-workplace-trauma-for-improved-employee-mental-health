@@ -1,5 +1,3 @@
-Chapter 6: Implementation
-=========================
 
 Implementing trauma-informed practices in the workplace is critical for promoting employee mental health and well-being. In this chapter, we will explore strategies for effective implementation of trauma-informed practices, overcoming barriers to implementation, and measuring the effectiveness of these practices.
 

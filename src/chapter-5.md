@@ -1,5 +1,3 @@
-Chapter 4: Providing Resources for Trauma Recovery
-==================================================
 
 Providing resources for trauma recovery is critical for addressing workplace trauma and improving employee mental health. In this chapter, we will explore different types of resources that can support employees in their recovery from workplace trauma.
 
@@ -30,5 +28,4 @@ Conclusion
 ----------
 
 In conclusion, providing resources for trauma recovery is critical for addressing workplace trauma and improving employee mental health. By providing access to mental health services, EAPs, and other resources such as support groups, wellness programs, flexible work arrangements, and educational materials, employers can support employees in their recovery from workplace trauma. In the following chapters, we will explore specific examples of how these resources can be provided and integrated into workplace culture to improve employee mental health across a range of industries and settings.
-
 

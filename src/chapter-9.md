@@ -1,5 +1,3 @@
-Chapter 8: Future Directions
-============================
 
 As workplaces continue to evolve, new challenges and opportunities arise for addressing workplace trauma and promoting employee mental health. In this chapter, we will explore innovations in addressing workplace trauma, new challenges that may emerge, and look ahead to the future of workplace mental health.
 

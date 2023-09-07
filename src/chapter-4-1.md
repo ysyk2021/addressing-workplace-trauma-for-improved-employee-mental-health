@@ -1,4 +1,3 @@
-# Building a Culture of Support
 
 Creating a safe and supportive environment is critical for addressing workplace trauma and improving employee mental health. One of the key ways to create such an environment is by building a culture of support. In this chapter, we will explore how building a culture of support can facilitate healing and recovery, and provide strategies for fostering a culture of support in the workplace.
 

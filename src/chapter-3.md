@@ -1,5 +1,3 @@
-Chapter 2: The Cost of Ignoring Workplace Trauma
-================================================
 
 Ignoring workplace trauma can have significant costs for both employees and organizations. In this chapter, we will explore the costs of ignoring workplace trauma, including the risks to employee mental health and the impact on organizational culture.
 

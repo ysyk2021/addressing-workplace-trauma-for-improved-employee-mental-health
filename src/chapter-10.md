@@ -1,5 +1,3 @@
-Conclusion
-==========
 
 Addressing workplace trauma is critical for promoting employee mental health and well-being. In this book, we have explored strategies for addressing workplace trauma, including developing policies and procedures, providing access to mental health services, building a culture of support and respect, and incorporating trauma-informed practices into the workplace.
 

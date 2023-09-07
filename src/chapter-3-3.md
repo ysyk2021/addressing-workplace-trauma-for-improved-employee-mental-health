@@ -1,4 +1,3 @@
-# The Impact on Organizational Culture
 
 Ignoring workplace trauma can have significant and long-lasting effects on organizational culture. In this chapter, we will explore the impact of workplace trauma on organizational culture and the importance of addressing trauma in the workplace.
 

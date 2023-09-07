@@ -1,5 +1,3 @@
-Overview of Workplace Trauma and Mental Health
-============================================================
 
 Trauma in the workplace can have a significant impact on employee mental health and well-being. In this book, we will explore strategies for addressing workplace trauma and improving employee mental health across a range of industries and settings.
 
