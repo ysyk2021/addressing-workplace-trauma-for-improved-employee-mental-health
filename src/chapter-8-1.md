@@ -1,5 +1,4 @@
-Chapter: The Role of Leadership in Supporting Trauma-Informed Practices
-=======================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Introduction
 ------------
